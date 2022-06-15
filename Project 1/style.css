@@ -1,0 +1,21 @@
+ *{
+    font-family:montserrat;
+    font-size: 14px;
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+
+ }
+ a{
+    text-decoration: none;
+ }
+ p{
+    border:gray;
+    padding: 30px;
+    text-align: center;
+    border-radius: 5px;
+ }
+ .form-wrap{
+    border-radius: 10px;
+    border: rgb(243, 197, 204);
+ }
