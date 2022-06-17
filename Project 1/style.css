@@ -27,7 +27,7 @@
     width: 298px;
     text-align: center;
     border-width: 10px;
-    background-color:#b1a7a7ce;
+    background-color:#f0eaeafd;
     color: #3e10aa;
     font-weight:900;
     font-size: 18px ;
@@ -52,7 +52,7 @@ position: relative;
     top: 40px;
     right: 50px;
     height: 71vh;
-    border-bottom: #d3c4c428;
+    border-bottom: none;
     
 
 }
