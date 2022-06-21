@@ -50,7 +50,7 @@ position: relative;
     border-radius: 10px;
     width: 360px;
     top: 40px;
-    right: 50px;
+    left: 500px;
     height: 71vh;
     border-bottom: none;
     
@@ -149,21 +149,31 @@ form h2{
     }
     
 }
+/****************************************************************************/
 @media (min-width:300px) and (max-width:779px) {
     .container-2{
-        right: 0px;
-        width: 250px ;
-        top: 400px;
+        right: 50px;
+        width: 250px;
         position: absolute;
         margin-top: 20px;
-        padding: auto;
+        top: 350px;
+        height: 290px;
+        padding: 10px;
+        font-size: 10px;
+    }
+    .content2{
 
+        top: -45px;
+    }
+    .images{
+        top: -200px
     }
     
     .image-1{
         width: 20px;
         position: absolute;
-        left: 604px;
+        left: 20px;
+        height: 30px;
         
     }
     .image-4{
@@ -178,6 +188,12 @@ form h2{
         left: 50px;
     }
     .head{
-        left: 10px;
+        left: 40px;
     }
+    .content3{
+        top: 250px;
+        width: 270px;
+    }
+    
 }
+
